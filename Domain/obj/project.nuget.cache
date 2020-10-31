@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SVQSx6X+X7a8bu1eoNLLHwA3b9uMx3YIboHByVabYlELAr4gfKsTIswA8Fdx98LDpzbUIDg7f4MW2MkHmp04Ow==",
+  "success": true,
+  "projectFilePath": "E:\\My Projects\\Reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fukuroul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fukuroul\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
