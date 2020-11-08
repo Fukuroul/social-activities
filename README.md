@@ -1,2 +1,2 @@
 # social-activities
-A fullstacked project created to improve my web-based programming
+A fullstacked project created to learn React + .NetCore
