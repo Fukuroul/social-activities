@@ -1,0 +1,9 @@
+E:\My Projects\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+E:\My Projects\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.dll
+E:\My Projects\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.pdb
+E:\My Projects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+E:\My Projects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+E:\My Projects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+E:\My Projects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+E:\My Projects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
+E:\My Projects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb
